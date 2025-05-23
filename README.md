@@ -11,8 +11,8 @@ reNgine is an automated reconnaissance framework for web applications with a foc
 
 ## Recon
 
-https://www.nslookup.io/domains/ipm.com.br/dns-records/axfr/</br>
-https://github.com/hakluke/hakrawler
+https://www.nslookup.io/domains/ipm.com.br/dns-records/axfr/ </br>
+https://github.com/hakluke/hakrawler </br>
 [httpx](recon/httpx.md)
 
 ## Standards
