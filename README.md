@@ -15,6 +15,10 @@ https://www.nslookup.io/domains/ipm.com.br/dns-records/axfr/ </br>
 https://github.com/hakluke/hakrawler </br>
 [httpx](recon/httpx.md)
 
+#### References
+http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#OSINT </br>
+https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search
+
 ## Standards
 http://www.pentest-standard.org/index.php/Main_Page
 
