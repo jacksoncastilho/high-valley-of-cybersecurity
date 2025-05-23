@@ -10,15 +10,14 @@ reNgine is an automated reconnaissance framework for web applications with a foc
 [reNgine](https://github.com/yogeshojha/rengine)
 
 ## Recon
-#### Domains/Subdomains
-https://www.nslookup.io/domains/ipm.com.br/dns-records/axfr/
 
-#### Links
+https://www.nslookup.io/domains/ipm.com.br/dns-records/axfr/</br>
 https://github.com/hakluke/hakrawler
-
-### Links
-https://github.com/hakluke/hakrawler
-https://www.youtube.com/watch?v=4585YGGF_ps
+[httpx](recon/httpx.md)
 
 ## Standards
 http://www.pentest-standard.org/index.php/Main_Page
+
+## Reference
+https://github.com/hakluke/hakrawler</br>
+https://www.youtube.com/watch?v=4585YGGF_ps
