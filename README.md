@@ -10,15 +10,7 @@ reNgine is an automated reconnaissance framework for web applications with a foc
 [reNgine](https://github.com/yogeshojha/rengine)
 
 ## Recon
-[Google Dorks](recon/google-dorks.md) </br>
-https://www.nslookup.io/domains/ipm.com.br/dns-records/axfr/ </br>
-https://github.com/hakluke/hakrawler </br>
-[httpx](recon/httpx.md) </br>
-https://github.com/laramies/theHarvester
-
-#### References
-http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#OSINT </br>
-https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search
+[Recon](recon/recon.md)
 
 ## Methodologies
 [Methodologies](methodology/methodology.md)
