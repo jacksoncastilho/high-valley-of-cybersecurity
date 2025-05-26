@@ -20,6 +20,7 @@ https://github.com/laramies/theHarvester
 http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#OSINT </br>
 https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search
 
+## Methodologies
 [Methodologies](methodology/methodology.md)
 
 ## Standards
