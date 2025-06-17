@@ -15,6 +15,8 @@
 ## Dev
 [Dev](dev/php.md)
 
+## Tips
+[Tips](tip/tip.md)
 
 
 
