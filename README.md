@@ -13,10 +13,10 @@
 [Linux](os/linux/linux.md)
 
 ## Dev
-[Dev](dev/php.md)
+:computer: [Dev](dev/php.md)
 
-## :bulb: Tips
-[Tips](tip/tips.md)
+##  Tips
+:bulb: [Tips](tip/tips.md)
 
 
 
