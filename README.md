@@ -16,7 +16,7 @@
 [Dev](dev/php.md)
 
 ## Tips
-[Tips](tip/tip.md)
+[Tips](tip/tips.md)
 
 
 
