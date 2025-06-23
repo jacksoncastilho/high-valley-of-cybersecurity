@@ -13,7 +13,8 @@
 [Linux](os/linux/linux.md)
 
 ## Dev
-:computer: [Dev](dev/php.md)
+- [Python](dev/python/python.md)
+- [PHP](dev/php.md)
 
 ##  Tips
 :bulb: [Tips](tip/tips.md)
