@@ -6,6 +6,9 @@
 ## Recon
 [Recon](recon/recon.md)
 
+##  Techniques 
+[Techniques](techniques/techniques.md)
+
 ## Tools
 [Tools](tools/tools.md)
 
